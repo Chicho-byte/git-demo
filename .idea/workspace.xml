@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cc7c841-7597-434e-9c6b-9bc2cd243141" name="Changes" comment="&quot;Second Commit&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="1cc7c841-7597-434e-9c6b-9bc2cd243141" name="Changes" comment="&quot;delete properties &quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -39,7 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "demo__branch",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748010525035</updated>
-      <workItem from="1748010526138" duration="455000" />
+      <workItem from="1748010526138" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Second Commit&quot;">
       <option name="closed" value="true" />
@@ -84,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748010934342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;properties commit">
+      <option name="closed" value="true" />
+      <created>1748011004230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011004230</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;delete properties &quot;">
+      <option name="closed" value="true" />
+      <created>1748011133787</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011133787</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +137,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Second Commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Second Commit&quot;" />
+    <MESSAGE value="&quot;properties commit" />
+    <MESSAGE value="&quot;delete properties &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;delete properties &quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
